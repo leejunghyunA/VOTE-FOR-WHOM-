@@ -1,9 +1,7 @@
 # 📊 발표주제 및 자료
 ### 국회의원 투표 및 평가 솔루션
-[![vote for whom](https://user-images.githubusercontent.com/108326573/216614913-3899f6ba-d549-425e-8f41-68f77e288bbb.jpg "발표자료 보러가기")]
-(https://github.com/leejunghyunA/VOTE-FOR-WHOM-/blob/main/2%ED%8C%80_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D.pdf)<br/>
-
-[![발표자료 보러가기](https://user-images.githubusercontent.com/108326629/210029729-f3f9c7db-737b-4d11-b542-7294d28031e3.png "발표자료 보러가기")](https://docs.google.com/presentation/d/1t8-dkB2IBRQoJ1jgA2k_jGG7kQ5l39Zg/edit#slide=id.p1)<br/>
+<a href = "https://github.com/leejunghyunA/VOTE-FOR-WHOM-/blob/main/2%ED%8C%80_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D.pdf">![vote for whom](https://user-images.githubusercontent.com/108326573/216614913-3899f6ba-d549-425e-8f41-68f77e288bbb.jpg "발표자료 보러가기")
+<br/>
 
 <br/>
 
